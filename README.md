@@ -4,9 +4,9 @@ Kiritsugu Emiya from Fate Zero as a skin for Driver
 
 Sorry for the low quality, that was the only model I could find, but I really like this character so it had to be done.
 
-![okabegameplay](https://github.com/dannyduartemgs/HououinKyouma/assets/165226477/c38ab569-28c3-43b8-ae3a-acfd51b079fb)
+![kiritsugu lobby](https://github.com/dannyduartemgs/kiritsugu/assets/165226477/3f08687a-74bb-4767-a6c3-87909ed2106f)
 
-![okabelobby](https://github.com/dannyduartemgs/HououinKyouma/assets/165226477/5d61dbf1-0776-4636-bb49-006d17917e11)
+![kiritsugugame](https://github.com/dannyduartemgs/kiritsugu/assets/165226477/a7be456a-e9ad-4dbc-a755-9a8d6f87435e)
 
 
 My first attemp at making skins for modded characters, I have 2 more skins planned for Driver: Big Boss and Leon S. Kennedy.
